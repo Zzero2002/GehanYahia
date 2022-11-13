@@ -48,4 +48,48 @@
     
     $('#sp5').html(count8);
   });
+
+  
+  
+  
+  
+  $('#bt1').on('click',function () {
+    count1 = -1;
+    
+    $('#sp1').html(count1);
+  });
+  $('#bt2').on('click',function () {
+    count5 = -1;
+    
+    $('#sp2').html(count5);
+  });
+  $('#bt3').on('click',function () {
+    count6 = -1;
+    
+    $('#sp3').html(count6);
+  });
+  $('#bt4').on('click',function () {
+    count7 = -1;
+    
+    $('#sp4').html(count7);
+  });
+  $('#bt5').on('click',function () {
+    count8 = -1;   
+    $('#sp5').html(count8);
+  });
+  $('#bt6').on('click',function () {
+    count2 = -1;
+    
+    $('#sp6').html(count2);
+  });
+  $('#bt7').on('click',function () {
+    count3 = -1;
+    
+    $('#sp7').html(count3);
+  });
+  $('#bt8').on('click',function () {
+    count4 = -1;
+    
+    $('#sp8').html(count4);
+  });
 })();

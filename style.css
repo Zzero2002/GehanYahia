@@ -44,14 +44,14 @@ header .main-content{
         text-align: center;
     }
     .first p{
-        background:#0275d8;
+        background:#ca4ef8;
         color:white;
         padding:20px 40px;
         border-radius:10px;
     }
 }
 .first p{
-    background:#0275d8;
+    background:#ca4ef8;
     color:white;
     padding:20px;
     border-radius:10px;
@@ -82,4 +82,10 @@ header .main-content{
     font-size:20px;
     line-height:50px;
     font-weight:bolder
+}
+.button{
+    background:rgb(251, 251, 166);
+    border:2px solid blue;
+    padding:5px;
+    color:black;
 }
