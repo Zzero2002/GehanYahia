@@ -37,7 +37,7 @@ header .main-content{
 
 @media screen and (max-width:500px){
     header{
-        background: url(banner3.jpg);
+        background: url(300x300.JPEG.jpg);
         width: 100%;
         background-position:center;
     }
