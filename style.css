@@ -104,3 +104,14 @@ header .main-content{
     padding:5px;
     color:rgb(13, 0, 40);
 }
+footer{
+    color:#ff0b81;
+    margin:0 auto;
+    box-shadow:2px 2px 5px 5px #ff0b81;
+    border:5px solid #ff0b81;
+    border-radius: 25px;
+}
+footer h4{
+ padding:5px 30px;  
+ text-align: center; 
+}
